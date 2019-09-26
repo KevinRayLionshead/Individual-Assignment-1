@@ -1,0 +1,8 @@
+﻿  SimpleClass.cpp
+  Wrapper.cpp
+     Creating library C:\Users\acdc1\Documents\Courses\Game Engines\SimpleDLL\x64\Release\SimpleDLL.lib and object C:\Users\acdc1\Documents\Courses\Game Engines\SimpleDLL\x64\Release\SimpleDLL.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SimpleDLL.vcxproj -> C:\Users\acdc1\Documents\Courses\Game Engines\SimpleDLL\x64\Release\SimpleDLL.dll
